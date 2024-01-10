@@ -1,4 +1,4 @@
-module github.com/nedpals/supabase-go
+module github.com/bfasenfest/supabase-go
 
 go 1.16
 
